@@ -1,3 +1,10 @@
+// ==UserScript== 
+// // @name Moo Pie
+// // @namespace http://archive.voodoowarez.com/moopie
+// // @description Allow old MooTools sites to run while allowing the web to advance.
+// // @include http://www.yourstupidoldsite.com/* 
+// // ==/UserScript==
+
 // via https://github.com/mootools/mootools-core/blob/master/Source/Types/Array.js
 Array.prototype.flatten = function(){
 	var array = [];
